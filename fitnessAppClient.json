@@ -1,0 +1,8 @@
+{
+    "url": "fitnessapp-jeswels-projects.vercel.app",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "workouts": "/workouts"
+    }
+}
